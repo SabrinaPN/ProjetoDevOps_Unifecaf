@@ -1,0 +1,10 @@
+resources:
+  - namespace.yaml
+  - configmap.yaml
+  - secret.yaml
+  - api-gateway.yaml
+  - orders.yaml
+  - payments.yaml
+  - stock.yaml
+  - hpa.yaml
+  - networkpolicy.yaml
